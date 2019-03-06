@@ -5,3 +5,6 @@ TExtoTExtoTExtoTExtoTExtoTExtoTExtoTExtoTExtoTExto
 TExtoTExtoTExtoTExtoTExtoTExtoTExtoTExtoTExtoTExto
 Capitulo 1
 esse e o primeiro capitulo teste do bla bla bla...
+Capitulo 1
+esse e o segundo capitulo deste
+teste do bla bla bla...
