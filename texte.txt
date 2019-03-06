@@ -8,3 +8,8 @@ esse e o primeiro capitulo teste do bla bla bla...
 Capitulo 1
 esse e o segundo capitulo deste
 teste do bla bla bla...
+
+Referencias
+- referencia 1
+- referencia 2
+- referencia 3
