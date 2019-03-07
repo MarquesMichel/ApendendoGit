@@ -52,4 +52,5 @@ __negrito 2__
 | linha 1  | linha 1  | linha 1  | linha 1  |
 | linha 2  | linha 2  | linha 2  | linha 2  |
 
-
+### colocando imagems e gits
+![git 1](https://user-images.githubusercontent.com/48299868/53923812-5c383d00-4058-11e9-9194-b6e833730d7c.gif)
