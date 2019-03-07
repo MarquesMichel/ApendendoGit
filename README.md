@@ -40,3 +40,14 @@ __negrito 2__
   isso aqui em baixo e um bloco:
 > um pequeno bloco
 
+### isso são listas para preencher
+- [ ] primeiro
+- [ ] segundo
+- [x] terceiro
+
+### criando tabelas
+
+| coluna 1 | coluna 2 | coluna 3 | coluna 4 |
+|----------|----------|----------|----------|
+| linha 1  | linha 1  | linha 1  | linha 1  |
+| linha 2  | linha 2  | linha 2  | linha 2  |
