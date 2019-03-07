@@ -54,3 +54,6 @@ __negrito 2__
 
 ### colocando imagems e gits
 ![git 1](https://user-images.githubusercontent.com/48299868/53923812-5c383d00-4058-11e9-9194-b6e833730d7c.gif)
+
+### um templade para readme
+[Link](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
